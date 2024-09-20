@@ -85,7 +85,7 @@ tools:context=".Activity.SignUpActivity">
             android:textSize="15sp" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/LoginBtn"
+            android:id="@+id/SignUpBtn"
             style="@android:style/Widget.Button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

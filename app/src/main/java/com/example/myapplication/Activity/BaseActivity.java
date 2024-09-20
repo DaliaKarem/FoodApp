@@ -16,6 +16,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class BaseActivity extends AppCompatActivity {
 FirebaseAuth mAuth; //to Auh Operation
 FirebaseDatabase database; //to Conect WithDB
+    public String TAG="uiLove";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
